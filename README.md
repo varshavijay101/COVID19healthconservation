@@ -1,2 +1,2 @@
 # COVID19healthconservation
-code for Google Trends analysis of health environment connections in response to the COVID19 pandemic
+code for: Vijay, V., Field, C. R., Gollnow, F., & Jones, K. K. (2021). Using internet search data to understand information seeking behavior for health and conservation topics during the COVID-19 pandemic. Biological Conservation, 109078.
