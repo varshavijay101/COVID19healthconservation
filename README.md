@@ -6,10 +6,10 @@ https://doi.org/10.1016/j.biocon.2021.109078
 
 *Note: Code to replicate our queries to the Google Trends API is included in the R script and archived data is available on request.*
 
-## Summary of scripts  
+Summary of scripts:  
 
-Code for data preparation, time serial analysis and visualization in: trends_REVIEW.R  
-Code for data preparation, network analysis and visualization in: trendsNETWORKS_REVIEW.R  
-Code for shiny app (https://shiny.sesync.org/apps/interactivenetwork/) in: interactivenetwork.R  
-/  
+* Code for data preparation, time serial analysis and visualization in: trends_REVIEW.R  
+* Code for data preparation, network analysis and visualization in: trendsNETWORKS_REVIEW.R  
+* Code for shiny app (https://shiny.sesync.org/apps/interactivenetwork/) in: interactivenetwork.R  
+    
 for questions contact varshavijay101@gmail.com
